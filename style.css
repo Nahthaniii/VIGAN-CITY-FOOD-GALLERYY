@@ -287,6 +287,13 @@ footer a {
     }
 }
 
+@media (max-width: 576px) {
+  .card2 {
+    margin-bottom: 1.5rem;
+  }
+}
+
+
 
 
 
