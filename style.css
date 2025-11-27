@@ -235,7 +235,7 @@ footer a {
 }
 
 @media(max-width:768px){
-.mid-cont h1{font-size: 10px;}
+.mid-cont h1{font-size: 100px;}
 .mid-cont p{font-size: 16px;}
 }
 
@@ -287,11 +287,10 @@ footer a {
     }
 }
 
-@media (max-width: 576px) {
-  .card2 {
-    margin-bottom: 1.5rem;
-  }
-}
+
+
+
+
 
 
 
